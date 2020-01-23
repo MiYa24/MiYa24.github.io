@@ -8,28 +8,13 @@ h1 {
   margin-bottom: 15px;
 }
 
-ul {
-  display: flex;
-  padding: 0;
-  margin: 0;
-  list-style: none;
-  background-color: #fff;
-  border-right: 0.5em solid #ffcd74;
-  border-left: 0.5em solid #ffcd74;
+ul.main-menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
-li {
-  flex: 1 0 auto;
-}
-ul a {
-  display: block;
-  padding: 0.25em 1em;
-  color: #9B9C9B;
-  text-decoration: none;
-  text-align: center;
-  border: 1px solid #fff;
-}
-a:hover {
-  background: #FFE5E0;
+ul.main-menu>li {
+    display: inline;
 }
 .frame {
 width: 70%;
