@@ -18,8 +18,9 @@ ul.main-menu {
   border-left: 0.5em solid #FFE7EE;
 }
 ul.main-menu>li {
-    display: inline;
+    display: flex;
     flex: 1 0 auto;
+    color: #FFE7EE;
 }
 ul a {
   display: block;
