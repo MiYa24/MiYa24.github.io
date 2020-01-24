@@ -14,8 +14,8 @@ ul.main-menu {
   margin: 0;
   list-style: none;
   background-color: #fff;
-  border-right: 0.5em solid #ffcd74;
-  border-left: 0.5em solid #ffcd74;
+  border-right: 0.5em solid #FFE7EE;
+  border-left: 0.5em solid #FFE7EE;
 }
 ul.main-menu>li {
     display: inline;
@@ -30,7 +30,7 @@ ul a {
   border: 1px solid #fff;
 }
 a:hover {
-  background: #FCCDE2;
+  background: #FFE7EE;
 }
 .frame {
   width: 70%;
