@@ -20,7 +20,7 @@ ul.main-menu {
 ul.main-menu>li {
     display: flex;
     flex: 1 0 auto;
-    color: #FFE7EE;
+    color: #FFC2D4;
 }
 ul a {
   display: block;
