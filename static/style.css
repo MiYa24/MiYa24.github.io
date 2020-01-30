@@ -55,7 +55,7 @@ a:hover {
   font-family: 'Garamond', 'times', serif;
  font-size: 100%;
   border: none;
-  padding: left 170px
+  padding-left: 170px
 }
 
 .dropdown-content {
