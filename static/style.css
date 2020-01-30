@@ -18,9 +18,12 @@ ul.main-menu {
   border-left: 0.5em solid #FFE7EE;
 }
 ul.main-menu>li {
-    display: flex;
-    flex: 1 0 auto;
-    color: #FFC2D4;
+  display: block;
+  padding: 0.25em 1em;
+  color: #FFC2D4;
+  text-decoration: none;
+  text-align: center;
+  border: 1px solid #fff;
 }
 ul a {
   display: block;
