@@ -57,13 +57,13 @@ a:hover {
   font-size: 125%;
   border: none;
    position: relative;
-  display: inline-block;
+  display: flex;
 }
 
 .dropdown-content {
  display: none;
   position: absolute;
-  background-color: #f1f1f1;
+  background-color: #FFFFFF;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
@@ -81,6 +81,7 @@ a:hover {
 
 .navbar a:hover, .dropdown:hover .dropbtn {
   background-color:#FFE7EE;
+  color: #5D5A5B;
 }
 
 .dropdown-content a:hover {
