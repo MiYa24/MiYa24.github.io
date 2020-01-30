@@ -50,7 +50,7 @@ a:hover {
 
 .dropdown .dropbtn {
   outline: none;
-  color: white;
+  color: #5D5A5B;
   font-family: inherit;
   display: flex;
   padding: 0;
@@ -63,7 +63,7 @@ a:hover {
 }
 
 .navbar a:hover, .dropdown:hover .dropbtn {
-  background-color: #FFE7EE;
+  background-color:#5D5A5B;
 }
 
 .dropdown-content {
@@ -86,7 +86,7 @@ a:hover {
 }
 
 .dropdown-content a:hover {
-  background-color: #ddd;
+  background-color: #FFE7EE;
 }
 
 .dropdown:hover .dropdown-content {
