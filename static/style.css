@@ -52,12 +52,9 @@ a:hover {
 .dropdown .dropbtn {
  background-color: #FFFFFF;
   color:#FFC2D4 ;
-  padding: 0.25em 1em;
   font-family: 'Garamond', 'times', serif;
  font-size: 100%;
-  border: 1px solid #fff;
-   position: relative;
-  display: block;
+  border: none;
 }
 
 .dropdown-content {
