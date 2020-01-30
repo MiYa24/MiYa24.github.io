@@ -49,8 +49,8 @@ a:hover {
 }
 
 .dropdown .dropbtn {
- background-color: #4CAF50;
-  color: white;
+ background-color: white;
+  color:#5D5A5B ;
   padding: 16px;
   font-size: 16px;
   border: none;
@@ -78,7 +78,7 @@ a:hover {
 }
 
 .navbar a:hover, .dropdown:hover .dropbtn {
-  background-color:#5D5A5B;
+  background-color:#FFE7EE;
 }
 
 .dropdown-content a:hover {
