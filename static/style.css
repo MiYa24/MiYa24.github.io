@@ -55,7 +55,6 @@ a:hover {
   font-family: 'Garamond', 'times', serif;
  font-size: 100%;
   border: none;
-  padding-left: 170px
 }
 
 .dropdown-content {
@@ -69,7 +68,6 @@ a:hover {
 
 .dropdown-content a {
   display: block;
-  padding-left: 170px
   color: #5D5A5B;
   text-decoration: none;
   text-align: center;
@@ -88,4 +86,8 @@ a:hover {
 
 .dropdown:hover .dropdown-content {
   display: block;
+}
+
+.lili {
+  padding-left: 170px;
 }
