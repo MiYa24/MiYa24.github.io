@@ -9,13 +9,14 @@ h1 {
 }
 
 ul.main-menu {
-  display: block;
-  padding: 0.25em 1em;
+   display: flex;
+  padding:  0.25em 1em;
   margin: 0;
   list-style: none;
   background-color: #fff;
-  text-align: center;
-  border: 1px solid #fff
+  border-right: 0.5em solid #FFE7EE;
+  border-left: 0.5em solid #FFE7EE;
+  
 }
 ul.main-menu>li {
      display: flex;
@@ -52,7 +53,8 @@ a:hover {
  background-color: #FFFFFF;
   color:#5D5A5B ;
   padding: 16px;
-  font-size: 16px;
+  font-family: 'Garamond', 'times', serif;
+  font-size: 125%;
   border: none;
    position: relative;
   display: inline-block;
