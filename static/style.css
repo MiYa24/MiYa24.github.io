@@ -15,9 +15,7 @@ ul.main-menu {
   margin: 0;
   list-style: none;
   background-color: #fff;
-  border-right: 0.5em solid #FFE7EE;
-  border-left: 0.5em solid #FFE7EE;
-  
+
 }
 ul.main-menu>li {
      display: flex;
