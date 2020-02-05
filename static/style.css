@@ -13,7 +13,7 @@ ul.main-menu {
    display: flex;
   padding:  1em 1em;
   margin: 0;
-  list-style: none;
+  list-style: center;
   background-color: #fff;
 
 }
@@ -34,7 +34,7 @@ a:hover {
   background: #FFE7EE;
 }
 .frame {
-  width: 70%;
+  width: 50%;
   margin-left: auto;
   margin-right: auto;
   display: block;
@@ -53,10 +53,10 @@ a:hover {
   color:#5D5A5B ;
   font-family: 'Garamond', 'times', serif;
  font-size: 100%;
-  border: none;
   display: flex;
   padding:  1em 1em;
   margin: 0;
+  text-align: center;
 }
 
 .dropdown-content {
