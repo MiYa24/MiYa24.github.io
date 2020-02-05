@@ -11,7 +11,7 @@ h1 {
 
 ul.main-menu {
    display: flex;
-  padding:  0.25em 1em;
+  padding:  1em 1em;
   margin: 0;
   list-style: none;
   background-color: #fff;
@@ -24,7 +24,7 @@ ul.main-menu>li {
 }
 ul a {
   display: block;
-  padding: 0.25em 1em;
+  padding: 1em 1em;
   color: #5D5A5B;
   text-decoration: none;
   text-align: center;
@@ -55,7 +55,7 @@ a:hover {
  font-size: 100%;
   border: none;
   display: flex;
-  padding:  0.25em 1em;
+  padding:  1em 1em;
   margin: 0;
 }
 
