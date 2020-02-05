@@ -1,6 +1,7 @@
 body {
   font-family: 'Garamond', 'times', serif;
   font-size: 125%;
+  margin: 0 auto;
 }
 h1 { 
   font-variant: small-caps;
@@ -55,6 +56,9 @@ a:hover {
   font-family: 'Garamond', 'times', serif;
  font-size: 100%;
   border: none;
+  display: flex;
+  padding:  0.25em 1em;
+  margin: 0;
 }
 
 .dropdown-content {
@@ -86,10 +90,6 @@ a:hover {
 
 .dropdown:hover .dropdown-content {
   display: block;
-}
-
-.lili {
-  padding-left: 170px;
 }
 
 .pink {
