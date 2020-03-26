@@ -123,13 +123,3 @@ a:hover {
   vertical-align: middle;
   width: 100%;
 }
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
-  width: 100%;
-}
-
-th, td {
-  text-align:center;
-  padding: 8px;
-}
