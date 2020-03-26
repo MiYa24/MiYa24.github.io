@@ -100,6 +100,10 @@ a:hover {
   margin-right: 15%;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 .row {
   display: -ms-flexbox; 
   display: flex;
