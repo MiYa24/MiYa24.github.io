@@ -100,19 +100,19 @@ a:hover {
   margin-right: 15%;
 }
 
-#img_cont {
+.img_cont {
   display: table;
   width: 90%;
   margin: 20px auto;
 }
 
-#img_cont a {
+.img_cont a {
   display: table-cell;
   text-align: center;
   width: 16%;
 }
 
-#img_cont img {
+.img_cont img {
   width: 100%;
   max-width: 150px;
 }
