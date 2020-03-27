@@ -115,10 +115,9 @@ a:hover {
   padding: 0 4px;
 }
 
-/* Create two equal columns that sits next to each other */
 .column {
-  -ms-flex: 50%; /* IE 10 */
-  flex: 50%;
+  flex: 25%;
+  max-width: 25%;
   padding: 0 4px;
 }
 
