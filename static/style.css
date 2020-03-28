@@ -30,7 +30,7 @@ ul.main-menu>li {
 }
 ul a {
   display: block;
-  padding: 1em 1em;
+   padding: 0 1em;
   color: #5D5A5B;
   text-decoration: none;
   text-align: center;
@@ -60,7 +60,7 @@ a:hover {
   font-family: 'Garamond', 'times', serif;
  font-size: 100%;
   display: flex;
-  padding:  1em 1em;
+  padding: 0 1em;
   margin: 0;
   text-align: center;
 }
